@@ -1,2 +1,2 @@
 # get-gethub
-this is for something.
+this is for something!
